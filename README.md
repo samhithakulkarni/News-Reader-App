@@ -1,16 +1,31 @@
-# news_reader_app
+#  News Reader App – Flutter
+**Greetings everyone**
+This is a cross-platform mobile application built with **Flutter** that fetches and displays real-time news articles from APIs. The app provides a clean and intuitive UI with features like **search**,**book marking**, **word count–based filtering**, and **light/dark theme switching**, offering a personalized news reading experience on both Android and iOS devices.
 
-A new Flutter project.
+---
 
-## Getting Started
+##  Features
 
-This project is a starting point for a Flutter application.
+-  Fetches live news articles using REST APIs  
+-  Search functionality to filter articles by keywords  
+-  Word count–based filtering for customized reading  
+-  Light and Dark theme toggle  
+-  Responsive UI for both Android and iOS  
+-  Follows Material Design principles
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** (Dart)  
+- **REST API Integration**  
+- **State Management** (`setState`, Provider, etc.)  
+- **Material Design Components**
+
+---
+
+##  How to Run
+To run the app locally:
+
+1. **Clone the repository**
+   git clone https://github.com/samhithakulkarni/News-Reader-App.git
