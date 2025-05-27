@@ -25,7 +25,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
         padding: const EdgeInsets.all(16),
         child: Column(
           children: [
-            // ✅ Use settingsProvider for dark mode
             SwitchListTile(
               title: Text('Dark Mode'),
               value: settingsProvider.isDarkMode,
